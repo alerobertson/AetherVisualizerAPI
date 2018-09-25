@@ -1,0 +1,7 @@
+{
+	"client_id": "SpotifyIssuedID",
+	"client_secret": "SpotifyIssuedSecret",
+	"redirect_uri": "http://000.000.000.000:0000/endpoint",
+	"this_url": "http://000.000.000.000",
+	"this_port": 0000
+}
